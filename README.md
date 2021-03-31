@@ -11,14 +11,12 @@ I'm also on the hunt for an internship for this summer, so if you're hiring reac
 
 By the way, you can also see my resume [here](https://lukesalamone.com/res/resume.pdf)🤓
 
-**Technologies I'm familiar with 🔬**
+### Technologies I'm familiar with 🔬
 
-Languages: 
- - Python
- - Java
- - Javascript
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-Tools:
+**Tools:**
  - Pytorch
  - Tensorflow
  - Keras
@@ -27,7 +25,7 @@ Tools:
  - Numpy
  - Pandas
 
-Techniques:
+**Techniques:**
  - Supervised Learning
  - Unsupervised Learning
  - Reinforcement Learning
