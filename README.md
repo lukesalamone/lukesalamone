@@ -9,7 +9,7 @@ I'm also on the hunt for an internship for this summer, so if you're hiring reac
  - [Personal Website](https://lukesalamone.com)
  - [My Blog](https://lukesalamone.github.io)
 
-By the way, you can also see my resume [here](https://lukesalamone.com/res/resume.pdf)🤓
+By the way, you can also download my resume [here](https://github.com/lukesalamone/lukesalamone/raw/master/resume_luke_salamone.pdf)🤓
 
 ### Technologies I'm familiar with 🔬
 
