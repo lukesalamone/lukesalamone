@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Luke, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm from Wauwatosa, Wisconsin. (Our city is named after the Potawatomi word for firefly 😀) Previously, I worked as a Senior Software engineer at Capital One. I'm currently working on a few different projects related to machine learning, especially natural language processing. 
+I'm Luke, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm from Wauwatosa, Wisconsin. (Our city is named after the Potawatomi word for firefly 😀) Previously, I worked as a Senior Software engineer at Capital One. I'm currently working on a few different projects related to machine learning, especially natural language processing and computer vision. 
 
 I'm also on the hunt for an internship for this summer, so if you're hiring reach out! I can most easily be reached via:
 
