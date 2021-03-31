@@ -19,11 +19,6 @@ By the way, you can also see my resume [here](https://lukesalamone.com/res/resum
 **Tools:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Techniques:**
- - Supervised Learning
- - Unsupervised Learning
- - Reinforcement Learning
- - Clustering
- - Computer vision
- - Natural language processing
- - Data mining
+**Techniques:**  
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-7400B8?style=for-the-badge&logoColor=white) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6930C3?style=for-the-badge&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-5390D9?style=for-the-badge&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20vision-4EA8DE?style=for-the-badge&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/Natural%20language%20processing-48BFE3?style=for-the-badge&logoColor=white) ![Data Mining](https://img.shields.io/badge/Data%20mining-56CFE1?style=for-the-badge&logoColor=white)
