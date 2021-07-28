@@ -2,7 +2,7 @@
 
 I'm Luke, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm from Wauwatosa, Wisconsin. (Our city is named after the Potawatomi word for firefly 😀) Previously, I worked as a Senior Software engineer at Capital One. I'm currently working on a few different projects related to machine learning, especially natural language processing and computer vision. 
 
-I'm also on the hunt for an internship for this summer, so if you're hiring reach out! I can most easily be reached via:
+I'm also on the hunt for a full-time machine learning role, so if you're hiring reach out! I can most easily be reached via:
 
  - lukesalamone94@gmail.com  
  - [Linkedin](https://www.linkedin.com/in/lukesalamone/)
