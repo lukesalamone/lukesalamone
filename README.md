@@ -1,13 +1,13 @@
 ### Hi everyone 👋
 
-I'm Luke, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm from Wauwatosa, Wisconsin. (Our city is named after the Potawatomi word for firefly 😀) Previously, I worked as a Senior Software engineer at Capital One. I currently work as a machine learning engineer at TikTok. 
+I'm Luke, a Machine Learning Engineer at Grammarly. Previously, I worked on user behavior modeling at TikTok and as a Senior Software Engineer at Capital One. I also have an MS in Artificial Intelligence from Northwestern University. I grew up in Wauwatosa, Wisconsin. (Our city is named after the Potawatomi word for firefly 😀)
 
 I'm not currently looking for anything new, but don't hesitate to reach out! I can most easily be reached via:
 
  - lukesalamone94@gmail.com  
  - [Linkedin](https://www.linkedin.com/in/lukesalamone/)
  - [Personal Website](https://lukesalamone.com)
- - [My Blog](https://lukesalamone.github.io)
+ - [My Blog](https://blog.lukesalamone.com)
 
 By the way, you can also download my resume [here](https://github.com/lukesalamone/lukesalamone/raw/master/resume_luke_salamone.pdf)🤓
 
